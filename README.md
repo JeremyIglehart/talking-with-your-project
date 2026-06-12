@@ -3,7 +3,8 @@
 **Author:** Jeremy Iglehart  
 **Co-author:** Karma
 
-*Working Draft — June 2026 · v5.0.0*
+*Working Draft — June 2026 · v5.0.0*  
+*🎧 [Audio version available](talking-with-your-project.mp3)*
 
 ---
 
