@@ -4,7 +4,7 @@
 **Co-author:** Karma
 
 *Working Draft — June 2026 · v5.0.0*  
-*🎧 [Audio version available](talking-with-your-project.mp3)*
+*🎧 [Listen while you read](https://jeremyiglehart.github.io/talking-with-your-project/) · [Download PDF](talking-with-your-project.pdf)*
 
 ---
 
